@@ -1,5 +1,7 @@
 
-
+"""
+checkout.py does all the hard work for a checkout. 
+"""
 
 def main():
     print("Hello World")
