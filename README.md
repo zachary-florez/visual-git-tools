@@ -1,3 +1,4 @@
 # visual-git-tools
 
-This comment has nothing to do with the project README. 
+Visual git tools project for SWE 525 Fall 2026 at The University of Michigan.
+
